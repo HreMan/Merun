@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ NOTICE
+  ~
+  ~ This is the copyright work of The MITRE Corporation, and was produced for
+  ~ the U. S. Government under Contract Number DTFAWA-10-C-00080, and is subject
+  ~ to Federal Aviation Administration Acquisition Management System Clause
+  ~ 3.5-13, Rights In Data-General, Alt. III and Alt. IV (Oct. 1996).  No other
+  ~ use other than that granted to the U. S. Government, or to those acting on
+  ~ behalf of the U. S. Government, under that Clause is authorized without the
+  ~ express written permission of The MITRE Corporation. For further information,
+  ~ please contact The MITRE Corporation, Contracts Office,7515 Colshire Drive,
+  ~ McLean, VA  22102-7539, (703) 983-6000.
+  ~
+  ~ Approved for Public Release; Distribution Unlimited. Case Number 14-4045
+  -->
+
+<resources>
+    <color name="default_ascv_selected_color">#0099CC</color>
+    <color name="default_ascv_unselected_color">#FFFFFF</color>
+    <color name="color_dialog_gray">#ededf3</color>
+    <color name="color_dialog_content">#ed7861</color>
+    <color name="color_dialog_title">#303030</color>
+    <color name="color_dialog_content_prompt">#343434</color>
+
+    <color name="color_type_info">#79b3e4</color>
+    <color name="color_type_help">#e8bd4b</color>
+    <color name="color_type_wrong">#ed7861</color>
+    <color name="color_type_warning">#e8bd4b</color>
+    <color name="color_type_success">#1298b3</color>
+</resources>
